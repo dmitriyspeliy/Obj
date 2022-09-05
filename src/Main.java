@@ -9,7 +9,6 @@ public class Main {
         System.out.println(alexsandrPushkin);
         System.out.println(markTven);
         System.out.println(tomSawyer);
-        System.out.println(eugeneOnegin);
 
     }
 }
